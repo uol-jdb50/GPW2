@@ -1,0 +1,11 @@
+seriesname="Formula 2"
+numdrivers=20
+drivers=40,32,64,70,92,13,58,36,66,49,82,67,15,90,62,98,46,19,69,43
+numevents=12
+racesperevent=2
+
+seriesname="Formula 3"
+numdrivers=20
+drivers=83,12,47,93,25,95,56,87,74,60,50,51,68,53,73,34,97,42,21,52
+numevents=9
+racesperevent=2
